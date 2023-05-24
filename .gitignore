@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/privateP/
+src/main/java/com/example/demotest/privateP/
