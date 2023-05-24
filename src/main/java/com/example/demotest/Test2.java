@@ -9,5 +9,6 @@ public class Test2 {
         System.out.println("Test6");
         System.out.println("Test7");
         System.out.println("Test99");
+        System.out.println("Test12");
     }
 }
