@@ -31,9 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
-#**/privateP/
-#**/p/
-#**/p2/
+**/p/
 
 
 
