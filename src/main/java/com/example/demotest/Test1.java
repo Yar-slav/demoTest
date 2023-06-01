@@ -21,6 +21,7 @@ public class Test1 {
         log.info("start");
         System.out.println("fdfdf");
         System.out.println("fdfdf");
+        System.out.println("fdfdf");
         log.info("start");
     }
 
