@@ -1,10 +1,5 @@
 package com.example.demotest;
 
-import java.util.List;
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.CopyOnWriteArrayList;
-
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("Test4");
@@ -17,7 +12,8 @@ public class Test1 {
         System.out.println("Test111");
     }
 
-    public void test(){
+    public void testT(){
+        System.out.println("fdfdf");
         System.out.println("fdfdf");
     }
 }
