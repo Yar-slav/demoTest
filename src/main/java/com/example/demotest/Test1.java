@@ -17,10 +17,18 @@ public class Test1 {
         log.info("finish");
     }
 
+    private static void ttt(){
+        log.info("start");
+        System.out.println("fdfdf");
+        System.out.println("fdfdf");
+        System.out.println("fdfdf");
+        log.info("start");
+    }
+
     public void testT(){
         log.info("start");
         System.out.println("fdfdf");
         System.out.println("fdfdf");
-        log.info("start");
+        log.info("start2");
     }
 }
