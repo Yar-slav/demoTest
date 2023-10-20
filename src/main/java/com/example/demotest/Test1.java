@@ -49,6 +49,7 @@ public class Test1 implements B{
         System.out.println("fdfdf");
         System.out.println("fdfdf");
         System.out.println("fdfdf");
+        System.out.println("fdfdf");
         StringBuilder f = new StringBuilder();
         f.append("d");
         log.info("start");
